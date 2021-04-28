@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomParticles.qml</file>
+        <file>star.png</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>

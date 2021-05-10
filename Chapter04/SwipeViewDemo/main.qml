@@ -14,18 +14,9 @@ Window {
         currentIndex: 0
         anchors.fill: parent
 
-        Rectangle {
-            id: page1
-            color: "red"
-        }
-        Rectangle {
-            id: page2
-            color: "green"
-        }
-        Rectangle {
-            id: page3
-            color: "blue"
-        }
+        Rectangle { id: page1; color: "red" }
+        Rectangle { id: page2; color: "green"}
+        Rectangle { id: page3; color: "blue" }
     }
 
     PageIndicator {

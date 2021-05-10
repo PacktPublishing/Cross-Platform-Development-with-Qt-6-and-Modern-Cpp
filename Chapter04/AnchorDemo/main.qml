@@ -2,29 +2,23 @@ import QtQuick
 import QtQuick.Window
 
 Window {
-    width: 600
-    height: 600
+    width: 400; height: 400
     visible: true
     title: qsTr("Anchoring Demo")
     Rectangle {
         id: blueRect
         anchors {
-            left: parent.left
-            right: parent.right
-            top: parent.top
-            bottom: parent.bottom
-            leftMargin:10
-            rightMargin: 50
-            topMargin: 100
-            bottomMargin: 200
+            left: parent.left; leftMargin:10
+            right: parent.right; rightMargin: 40
+            top: parent.top; topMargin: 50
+            bottom: parent.bottom; bottomMargin: 100
         }
         color: "blue"
         Rectangle {
             id: redRect
             anchors.centerIn: blueRect
             color:"red"
-            width: 100
-            height: 100
+            width: 150; height: 100
         }
     }
 }

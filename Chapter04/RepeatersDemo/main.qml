@@ -2,18 +2,18 @@ import QtQuick
 import QtQuick.Window
 
 Window {
-    width: 400
-    height: 400
+    width: 400; height: 200
     visible: true
     title: qsTr("Repeater Demo")
 
     Row {
         anchors.centerIn: parent
+        spacing: 10
         Repeater {
             model: 5
             Rectangle {
-                width: 50; height: 50
-                border.width: 1
+                width: 60; height: 40
+                border{ width: 1; color: "black";}
                 color: "green"
             }
         }

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file>Simplei18nDemo_de_DE.qm</file>
+    </qresource>
+</RCC>

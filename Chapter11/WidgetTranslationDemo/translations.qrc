@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/i18n">
+        <file>WidgetTranslationDemo_de_DE.qm</file>
+        <file>WidgetTranslationDemo_es_ES.qm</file>
+        <file>WidgetTranslationDemo_en_US.qm</file>
+    </qresource>
+</RCC>

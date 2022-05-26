@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B16231?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Cross-Platform Development with Qt 6 and Modern C++
 
 <a href="https://www.packtpub.com/programming/qt-6-and-c-modern-cross-platform-development?utm_source=github&utm_medium=repository&utm_campaign=9781800204584"><img src="https://static.packt-cdn.com/products/9781800204584/cover/smaller" alt="Cross-Platform Development with Qt 6 and Modern C++" height="256px" align="right"></a>

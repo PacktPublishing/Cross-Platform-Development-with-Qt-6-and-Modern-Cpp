@@ -56,3 +56,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Nibedit Dey** is a software engineer turned serial entrepreneur with over a decade of experience in building complex software-based products with amazing user interfaces.
 Before starting his entrepreneurial journey, he worked for Larsen and Toubro and Tektronix in different R&D roles. He holds a bachelor's degree in biomedical engineering and a master's degree in digital design and embedded systems. Specializing in Qt and embedded technologies, his current role involves end-to-end ownership of products right from architecture to delivery. Currently, he manages two technology-driven product startups named ibrum technologies and AIDIA Health. He is a tech-savvy developer who is passionate about embracing new technologies.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800204584">https://packt.link/free-ebook/9781800204584 </a> </p>
